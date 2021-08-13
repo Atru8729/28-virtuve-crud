@@ -18,14 +18,14 @@ donatoVirtuve.sunaudota('mesa', 15);
 donatoVirtuve.sunaudota('bulves', 15);
 donatoVirtuve.sunaudota('grietine', 2);
 
-//donatoVirtuve.turimiProduktai();
+donatoVirtuve.turimiProduktai();
 // 1) Mesa: 5
 // 2) Bulves: 35
 // 3) Grietine: 2
 
-//donatoVirtuve.sugedesProduktas('bulves');
+donatoVirtuve.sugedesProduktas('bulves');
 // KOMENTARAS: sugedusius produktus tiesiog ismetame
 
-//donatoVirtuve.turimiProduktai();
+donatoVirtuve.turimiProduktai();
 // 1) Mesa: 5
 // 2) Grietine: 2
